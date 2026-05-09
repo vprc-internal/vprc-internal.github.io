@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "alg": "RS384",
+      "kid": "vprc-key-1",
+      "n": "lheakoreOVuP0t_sKoNP0ytlf0o1-kE3kkjvMJB4RHUVDSyTvhfFCSqHsBlNjQbu_lNHR9JUL6o751LLa5Atu0l3eVGroyiARlGavuvh3Uq-U-1Cmhsf_OdYldtyzTcZMsCmAOa7h60_XXOnwth8w72iAbRO_IGNmXWFxrq1JOPx9dUkvoDq_Yip5vhaWT8YpGqTZ0m71Ve1e_9KxzAp1qmgJel6AxpKLHkEEiQ-ne4-akb6SMVolQokmG-_eJMJrTEhXlPI9ORv4cnCxeevAMhOZBY-eGV78BoXGGhIBl7k8I6ZnSOnTske2E5xcjjw4ty4qbDBWYkYL9AIs6BiBQ",
+      "e": "AQAB"
+    }
+  ]
+}
